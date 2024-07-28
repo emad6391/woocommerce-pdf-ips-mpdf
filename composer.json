@@ -1,4 +1,5 @@
 {
+    "name": "my-vendor/woocommerce-pdf-ips-mpdf",
     "require": {
         "mpdf/mpdf": "^8.2",
         "symfony/dom-crawler": "*"
